@@ -23,11 +23,17 @@ View: displays game objects.
 Model: holds references to game objects.
 
 You can interact with these game objects using the following commands:
+
 Move: move a trainer to a specified location.
+
 Go: advance the game by one tick of time.
+
 Run: advance the game by several units of time until
+
 Recover_health: recover the health of all of your Pokemon at a PokemonCenter.
+
 Battle: train at a PokemonGym and gain experience.
+
 And more commands for you to discover!
 
 ## Tips and Tricks
