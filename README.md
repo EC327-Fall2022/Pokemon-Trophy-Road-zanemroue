@@ -2,14 +2,14 @@
 Welcome to the Pokemon game simulation! In this game, you play as a Pokemon Trainer trying to defeat the gyms and keep your Pokemon healthy. You can win the game by defeating all the gyms without having your Pokemon faint. You can also compare your progress with other players by seeing who completes all the gyms the fastest.
 
 
-*Getting Started
+## Getting Started
 To begin playing the game, follow these steps:
 
 Clone or download the repository from GitHub.
 Navigate to the repository directory and compile the source code using a C++ compiler.
 Run the executable file to start the game.
 Follow the prompts to enter commands and control the progress of the game.
-*Game Mechanics
+## Game Mechanics
 In this game, you will encounter several different types of game objects:
 
 Point2D: represents a point on a Cartesian coordinate system.
@@ -30,7 +30,7 @@ Run: advance the game by several units of time until
 Recover_health: recover the health of all of your Pokemon at a PokemonCenter.
 Battle: train at a PokemonGym and gain experience.
 And more commands for you to discover!
-*Tips and Tricks
+## Tips and Tricks
 Here are a few tips and tricks to help you succeed in the game:
 
 Make sure to visit PokemonCenters regularly to keep your Pokemon healthy.
