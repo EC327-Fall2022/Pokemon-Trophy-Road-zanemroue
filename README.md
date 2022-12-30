@@ -35,9 +35,9 @@ And more commands for you to discover!
 ## Tips and Tricks
 Here are a few tips and tricks to help you succeed in the game:
 
-Make sure to visit PokemonCenters regularly to keep your Pokemon healthy.
-Train at PokemonGyms to gain experience and become stronger.
-Keep an eye on your budget and make sure to allocate your resources wisely.
-Use the Go and Run commands to manage the passage of time in the game.
-Experiment with different strategies and approaches to see what works best for you.
+- Make sure to visit PokemonCenters regularly to keep your Pokemon healthy.
+- Train at PokemonGyms to gain experience and become stronger.
+- Keep an eye on your budget and make sure to allocate your resources wisely.
+- Use the Go and Run commands to manage the passage of time in the game.
+- Experiment with different strategies and approaches to see what works best for you.
 
